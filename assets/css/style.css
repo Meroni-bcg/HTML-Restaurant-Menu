@@ -49,7 +49,9 @@ nav a {
 }
 
 nav a:hover {
-    color: darkred;
+    color: rgb(241, 244, 244);
+    background-color:rgb(137, 172, 172);
+    
 }
 
 #banner {
@@ -84,3 +86,29 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.phone {
+    font-family: monospace;
+    font-size: larger;
+    color:indianred
+}
+
+.Email {
+    font-family: monospace;
+    font-size: large;
+    color:indianred
+}
+
+.Address {
+    font-family: monospace;
+    font-size: larger;
+    color:indianred
+}
+
+#holidays {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    color: crimson;
+    
+}
+
